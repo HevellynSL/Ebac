@@ -9,4 +9,9 @@ fun main (){
 
     println("$valorInicial")
 
+   // val valor= 6
+    //valor = 7
+
+    //println("$valor")//
+
 }
