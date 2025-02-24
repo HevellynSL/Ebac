@@ -9,8 +9,4 @@ fun main (){
 
     println("$valorInicial")
 
-    val valor = 6
-    valor = 7
-//  Da erro na compilação
-    println("$valor")
 }
